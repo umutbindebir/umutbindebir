@@ -9,7 +9,7 @@ Merhaba! Ben Umut. Bilgisayar programcılığı mezunuyum. Yazılıma ve teknolo
 
 -  **Siber Güvenlik**:
    - Ağ güvenliği
-   - Sızma testler
+   - Sızma testleri
    - Zafiyet analizi
 
 -   **Linux:**
